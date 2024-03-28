@@ -1,0 +1,15 @@
+/Users/bhavindivecha/Downloads/Cannabis-master/cannabis-services/bin/Debug/net8.0/cannabis-services.deps.json
+/Users/bhavindivecha/Downloads/Cannabis-master/cannabis-services/bin/Debug/net8.0/cannabis-services.dll
+/Users/bhavindivecha/Downloads/Cannabis-master/cannabis-services/bin/Debug/net8.0/cannabis-services.pdb
+/Users/bhavindivecha/Downloads/Cannabis-master/cannabis-services/bin/Debug/net8.0/cannabis-entities.dll
+/Users/bhavindivecha/Downloads/Cannabis-master/cannabis-services/bin/Debug/net8.0/cannabis-entities.pdb
+/Users/bhavindivecha/Downloads/Cannabis-master/cannabis-services/obj/Debug/net8.0/cannabis-services.csproj.AssemblyReference.cache
+/Users/bhavindivecha/Downloads/Cannabis-master/cannabis-services/obj/Debug/net8.0/cannabis-services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bhavindivecha/Downloads/Cannabis-master/cannabis-services/obj/Debug/net8.0/cannabis-services.AssemblyInfoInputs.cache
+/Users/bhavindivecha/Downloads/Cannabis-master/cannabis-services/obj/Debug/net8.0/cannabis-services.AssemblyInfo.cs
+/Users/bhavindivecha/Downloads/Cannabis-master/cannabis-services/obj/Debug/net8.0/cannabis-services.csproj.CoreCompileInputs.cache
+/Users/bhavindivecha/Downloads/Cannabis-master/cannabis-services/obj/Debug/net8.0/cannabis.C6B43F46.Up2Date
+/Users/bhavindivecha/Downloads/Cannabis-master/cannabis-services/obj/Debug/net8.0/cannabis-services.dll
+/Users/bhavindivecha/Downloads/Cannabis-master/cannabis-services/obj/Debug/net8.0/refint/cannabis-services.dll
+/Users/bhavindivecha/Downloads/Cannabis-master/cannabis-services/obj/Debug/net8.0/cannabis-services.pdb
+/Users/bhavindivecha/Downloads/Cannabis-master/cannabis-services/obj/Debug/net8.0/ref/cannabis-services.dll

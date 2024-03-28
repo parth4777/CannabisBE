@@ -1,0 +1,12 @@
+/Users/bhavindivecha/Downloads/Cannabis-master/cannabis-entities/bin/Debug/net8.0/cannabis-entities.deps.json
+/Users/bhavindivecha/Downloads/Cannabis-master/cannabis-entities/bin/Debug/net8.0/cannabis-entities.dll
+/Users/bhavindivecha/Downloads/Cannabis-master/cannabis-entities/bin/Debug/net8.0/cannabis-entities.pdb
+/Users/bhavindivecha/Downloads/Cannabis-master/cannabis-entities/obj/Debug/net8.0/cannabis-entities.csproj.AssemblyReference.cache
+/Users/bhavindivecha/Downloads/Cannabis-master/cannabis-entities/obj/Debug/net8.0/cannabis-entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bhavindivecha/Downloads/Cannabis-master/cannabis-entities/obj/Debug/net8.0/cannabis-entities.AssemblyInfoInputs.cache
+/Users/bhavindivecha/Downloads/Cannabis-master/cannabis-entities/obj/Debug/net8.0/cannabis-entities.AssemblyInfo.cs
+/Users/bhavindivecha/Downloads/Cannabis-master/cannabis-entities/obj/Debug/net8.0/cannabis-entities.csproj.CoreCompileInputs.cache
+/Users/bhavindivecha/Downloads/Cannabis-master/cannabis-entities/obj/Debug/net8.0/cannabis-entities.dll
+/Users/bhavindivecha/Downloads/Cannabis-master/cannabis-entities/obj/Debug/net8.0/refint/cannabis-entities.dll
+/Users/bhavindivecha/Downloads/Cannabis-master/cannabis-entities/obj/Debug/net8.0/cannabis-entities.pdb
+/Users/bhavindivecha/Downloads/Cannabis-master/cannabis-entities/obj/Debug/net8.0/ref/cannabis-entities.dll
